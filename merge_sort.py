@@ -41,3 +41,5 @@ def merge_sort(nums):
 random_list_of_nums = [1200, 450, 1, 68, 250, 176]  
 random_list_of_nums = merge_sort(random_list_of_nums)  
 print(random_list_of_nums)
+
+# [1, 68, 176, 250, 450, 1200]
