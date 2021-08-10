@@ -25,3 +25,5 @@ def heap_sort(nums):
 random_list_of_nums = [35, 12, 34, 56]
 heap_sort(random_list_of_nums)
 print(random_list_of_nums)
+
+# [12, 34, 35, 56]
