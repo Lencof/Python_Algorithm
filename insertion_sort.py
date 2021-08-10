@@ -15,3 +15,4 @@ random_list_of_nums = [9, 23, 12, 34, 234]
 insertion_sort(random_list_of_nums)
 print(random_list_of_nums) 
 
+# [9, 12, 23, 34, 234]
