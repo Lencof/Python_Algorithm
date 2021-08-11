@@ -14,3 +14,4 @@ random_list_of_nums = [12, 4, 6, 7, 10, 20]
 selection_sort(random_list_of_nums)
 print(random_list_of_nums)
 
+# [12, 4, 6, 7, 10, 20]
