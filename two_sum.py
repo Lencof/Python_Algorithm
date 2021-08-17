@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # two_sum.py
 
-# Solution 1
-
 def two_sum(nums, target):
     # check that the list is not empty
     if not nums:
