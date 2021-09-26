@@ -28,8 +28,8 @@ def quick_sort(nums):
 
     _quick_sort(nums, 0, len(nums) -1)
 
-random_list_of_nums = [22, 4, 5, 7, 2, 93]
+random_list_of_nums = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 quick_sort(random_list_of_nums)
 print(random_list_of_nums)
 
-# [2, 4, 5, 7, 22, 93]
+# [1, 2, 3, 4, 5, 6, 7, 8, 9,]
