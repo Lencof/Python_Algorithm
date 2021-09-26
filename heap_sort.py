@@ -22,8 +22,8 @@ def heap_sort(nums):
         nums[i], nums[0] = nums[0], nums[i]
         heapify(nums, i, 0)
 
-random_list_of_nums = [35, 12, 34, 56]
+random_list_of_nums = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 heap_sort(random_list_of_nums)
 print(random_list_of_nums)
 
-# [12, 34, 35, 56]
+# [1, 2, 3, 4, 5, 6, 7, 8, 9]
